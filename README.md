@@ -1,4 +1,4 @@
-# Iris Flask Deployment
+<img width="1202" height="630" alt="Irus_clasifier" src="https://github.com/user-attachments/assets/522dfbf5-4d10-4379-b4a5-3ad7846d5205" /># Iris Flask Deployment
 
 This small Flask app serves the trained Iris classifier saved from the notebook.
 
@@ -54,4 +54,10 @@ Next steps / suggestions
 - Add tests that validate model metrics automatically during CI and fail if performance drops.
 - Add a deployment workflow that deploys the built container to your cloud provider (e.g., AWS ECS, GKE, Azure Container Instances) or to a VM.
 - Integrate MLflow tracking server and register models to the MLflow Model Registry for controlled promotion between dev/staging/prod.
+
+
+
+<img width="1202" height="630" alt="Irus_clasifier" src="https://github.com/user-attachments/assets/f9146825-d565-420c-ba71-ac1b5e1d8018" />
+
+
 
