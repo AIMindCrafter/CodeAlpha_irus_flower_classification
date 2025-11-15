@@ -1,0 +1,10 @@
+flask>=2.0
+gunicorn
+joblib
+numpy
+scikit-learn
+pandas
+pytest
+uv
+seaborn
+matplotlib

@@ -1,0 +1,10 @@
+artifact_location: file:///home/xeeshan/8%29%20Code%20Alpha%20Internship/Task_1_project/mlruns/232100268140333302/models/m-1a956f2b756243dc9d873e8c651d0c32/artifacts
+creation_timestamp: 1763237811104
+experiment_id: '232100268140333302'
+last_updated_timestamp: 1763237816499
+model_id: m-1a956f2b756243dc9d873e8c651d0c32
+model_type: null
+name: model
+source_run_id: e15d490c704349fb8cb53e1cd40112d7
+status: 2
+status_message: null
