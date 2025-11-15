@@ -57,7 +57,7 @@ Next steps / suggestions
 
 
 
-<img width="1202" height="630" alt="Irus_clasifier" src="https://github.com/user-attachments/assets/f9146825-d565-420c-ba71-ac1b5e1d8018" />
+
 
 
 
